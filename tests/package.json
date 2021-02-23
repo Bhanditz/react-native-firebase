@@ -37,7 +37,7 @@
     "react": "^16.0.0",
     "react-native": "^0.49.1",
     "react-native-vector-icons": "^4.0.0",
-    "react-navigation": "^1.0.0-beta.9",
+    "react-navigation": "^1.0.0",
     "react-redux": "^5.0.3",
     "react-test-renderer": "16.0.0-alpha.12",
     "redux": "^3.6.0",
@@ -47,7 +47,7 @@
     "should": "^11.2.0",
     "should-sinon": "^0.0.5",
     "sinon": "^3.2.1",
-    "url-parse": "^1.1.9"
+    "url-parse": "^1.5.0"
   },
   "devDependencies": {
     "babel-cli": "^6.24.0",
